@@ -1,0 +1,35 @@
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus,
+  .navbar-inverse .navbar-nav>.active>a:hover,
+  .dropdown-menu>li>a:focus,
+   .dropdown-menu>li>a:hover,
+   .carousel-indicators .active,
+   .box-option .check
+   {
+   	background-color:#ef09c6;
+   }
+  
+
+  .navbar-brand span,
+  .about h1 span ,
+  .testmonials span,
+  .footer .copyright span,
+  .footer h3{
+  	color:#ef09c6; 
+  }
+  .box-option .color-option,
+   .testmonials .carousel-indicators li.active{
+   
+			border: 3px solid #ef09c6;
+		}
+	
+
+  .dropdown-menu{
+
+  	border-top: 3px solid #ef09c6;
+  }
+  
+   
+     
+    
+    

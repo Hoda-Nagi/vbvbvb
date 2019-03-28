@@ -1,0 +1,39 @@
+	/*start medua query*/
+		/* mobile and tablet */
+
+		@media (max-width: 767px){
+			.navbar-nav>li>a{
+				padding-top: 6px;
+				padding-bottom: 6px;
+			}
+			.subscribe .form-control{
+				margin: 20px auto;
+				width: 400px
+			}
+			.navbar-fixed-bottom .navbar-collapse, 
+			.navbar-fixed-top .navbar-collapse{
+				max-height: none
+			}
+			.Awsome{
+				text-align: center
+			}
+			.feature .fbox{
+				margin-bottom: 19px;
+			}
+
+		}
+		/* small screen */
+		@media (min-width: 768px) and (max-width: 991px) {
+			
+		}
+		/* medium screen */
+		@media (min-width: 992px) and (max-width: 1199px) {
+			
+		}/* large screen */
+
+		@media (min-width: 1200px){
+		
+	
+
+		}
+		
